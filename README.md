@@ -1,6 +1,6 @@
 - 👋 Hi, I am Emil.
-- 👀 My goal here is to build, collaborate, and learn intersting stuff.
-- 🌱 Currently beginning studies in web dev.
+- 👀 My goal here is to build, collaborate, and learn interesting stuff.
+- 🌱 Currently halfway through studies in web dev.
 - 💞️ 
 - 📫 I'm reachable @ emilthedev@gmail.com
 
